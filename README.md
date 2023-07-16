@@ -20,10 +20,6 @@
         <!-- Add more articles here -->
     </section>
     <footer>
-        <p>&copy; 2023 Miko Lebak Official. All rights reserved.</p>
-    </footer>
-</body>
-</html>
 
 Rahasia Terungkap: Jalur Alternatif Menuju Kampung Baduy yang Selama Ini Dicari! 🌳🍃"
 https://youtu.be/Beq65mdUW0M 
@@ -47,3 +43,8 @@ https://youtu.be/tWZEksAF_xE
 <a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
 </p> 
+
+  <p>&copy; 2023 Miko Lebak Official. All rights reserved.</p>
+    </footer>
+</body>
+</html>
