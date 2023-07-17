@@ -44,7 +44,9 @@ https://youtu.be/tWZEksAF_xE
 <a href="https://www.facebook.com/mikolebakk?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youtube miko lebak" height="30" width="40" /></a>
 <a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
-</p> 
+</p>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
   <p>&copy; 2023 Miko Lebak Official. All rights reserved.</p>
     </footer>
