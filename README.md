@@ -1,4 +1,5 @@
-**Miko Lebak Official**
+**Miko Lebak Official**<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
+</p>
 
 ![alt text](https://github.com/Mikolebak/Poto-banner-miko-lebak-official/blob/main/Screenshot_20230715-014614_Video%20Maker.jpg?raw=true)
 
@@ -35,7 +36,8 @@ https://youtu.be/tWZEksAF_xE
 
 - 👯 I’m looking to collaborate on [Konten kreator](https://youtu.be/RqX-plnU8-0) 
 
-- ⚡ Fun fact **💯** 
+- ⚡ Fun fact **💯**
+- ![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/Video.Guru_20230718_111121214.gif?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
