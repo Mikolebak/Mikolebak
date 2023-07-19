@@ -1,5 +1,6 @@
 **Miko Lebak Official**<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
 </p>
+Selamat datang di profil GitHub resmi Miko Lebak Official! Saya adalah seorang konten kreator yang aktif di berbagai platform media sosial seperti YouTube, Instagram, dan TikTok. Di sini, Anda akan menemukan informasi tentang saya, proyek-proyek saya, dan kontribusi saya di dunia konten kreatif.
 
 ![alt text](https://github.com/Mikolebak/Poto-banner-miko-lebak-official/blob/main/Screenshot_20230715-014614_Video%20Maker.jpg?raw=true)
 
@@ -29,6 +30,9 @@ https://youtu.be/Beq65mdUW0M
 
 WOW ! SUDAH MULUS DULU INI BANYAK HANTU YANG BUCIN DI SINI | CITRA MAJA RAYA BANTEN
 https://youtu.be/tWZEksAF_xE
+
+<h1>Tentang Saya</h1>
+Nama saya Miko Lebak, dan saya adalah seorang konten kreator yang berasal dari Lebak, Banten. Saya memiliki minat yang kuat dalam dunia digital dan seni kreatif. Sejak kecil, saya tertarik dengan teknologi dan menyukai berbagi pengetahuan serta ide-ide kreatif dengan orang lain.
                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miko-lebak-official&label=Profile%20views&color=0e75b6&style=flat" alt="miko-lebak-official" /> </p> 
 
