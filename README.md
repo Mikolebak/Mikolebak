@@ -33,6 +33,33 @@ https://youtu.be/tWZEksAF_xE
 
 <h1>Tentang Saya</h1>
 Nama saya Miko Lebak, dan saya adalah seorang konten kreator yang berasal dari Lebak, Banten. Saya memiliki minat yang kuat dalam dunia digital dan seni kreatif. Sejak kecil, saya tertarik dengan teknologi dan menyukai berbagi pengetahuan serta ide-ide kreatif dengan orang lain.
+
+<h1>Konten Kreator</h1> 
+Saya memulai perjalanan konten kreator saya di YouTube, di mana saya berbagi video tentang tutorial, ulasan produk, dan vlog seputar kehidupan sehari-hari. Saya senang membantu orang lain dengan berbagi pengetahuan dan pengalaman saya melalui konten video yang informatif dan menghibur. 
+
+Di samping YouTube, saya juga aktif di platform media sosial lainnya. Di Instagram, Anda dapat melihat foto-foto saya terkait kegiatan sehari-hari, proyek seni, dan perjalanan saya. Saya juga berbagi tips dan trik seputar konten kreatif di Instagram Stories. 
+
+TikTok adalah platform di mana saya mengekspresikan kreativitas saya melalui video pendek. Saya membuat konten yang lucu, menarik, dan menginspirasi untuk menghibur dan menghubungkan dengan pengikut saya di TikTok. 
+
+<h1>Proyek Terbaru</h1>
+Saat ini, saya sedang mengerjakan serangkaian video tutorial tentang pengembangan web. Saya berbagi pengetahuan dan keterampilan saya dalam membangun situs web dengan HTML, CSS, dan JavaScript. Proyek ini bertujuan untuk membantu pemula mempelajari dasar-dasar pengembangan web dan memulai perjalanan mereka sebagai pengembang web. 
+
+Selain itu, saya juga sedang merencanakan kolaborasi dengan konten kreator lainnya untuk menciptakan konten yang lebih menarik dan bermanfaat bagi komunitas kami. 
+
+<h1>Terhubung dengan Saya</h1> 
+Saya senang berinteraksi dengan pengikut saya dan mendengar tanggapan serta saran dari Anda. Jika Anda ingin mengikuti perjalanan saya sebagai konten kreator, Anda dapat menemukan saya di berbagai platform media sosial: 
+
+• GitHub: github.com/mikolebakofficial 
+
+• YouTube: youtube.com/@mikolebakofficial 
+
+• Instagram: instagram.com/@miko_lebak 
+
+• TikTok: tiktok.com/@mikolebak7
+
+<h1>Catatan</h1>
+Ikuti saya di platform-platform tersebut untuk mendapatkan konten menarik, tutorial, dan update terbaru dari saya. Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. Terima kasih telah mengunjungi profil GitHub saya!
+
                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miko-lebak-official&label=Profile%20views&color=0e75b6&style=flat" alt="miko-lebak-official" /> </p> 
 
