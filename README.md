@@ -1,4 +1,7 @@
-**Miko Lebak Official**<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
+**Miko Lebak Official**<a href="https://youtu.be/RQK16TTMNDM" target="blank"><img align="center" src="https://github.com/Mikolebak/Miko-lebak-badgeverifikasicentang.github.io/blob/main/Miko%20lebak%20official_9074860-1.png" alt="miko lebak official" height="30" width="40" /></a>
+</p>
+
+<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
 </p>
 Selamat datang di profil GitHub resmi Miko Lebak Official! Saya adalah seorang konten kreator yang aktif di berbagai platform media sosial seperti YouTube, Instagram, dan TikTok. Di sini, Anda akan menemukan informasi tentang saya, proyek-proyek saya, dan kontribusi saya di dunia konten kreatif.
 
