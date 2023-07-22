@@ -55,6 +55,8 @@ Selain itu, saya juga sedang merencanakan kolaborasi dengan konten kreator lainn
 <a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
 </p>
+<a href="https://www.tiktok.com/@mikolebak7" target="blank"><img align="center" src="https://github.com/Mikolebak/Miko-lebak-badgeverifikasicentang.github.io/blob/main/ei_1690067777659-removebg-preview-2.png" alt="miko lebak official" height="30" width="40" /></a>
+</p>
 
 Saya senang berinteraksi dengan pengikut saya dan mendengar tanggapan serta saran dari Anda. Jika Anda ingin mengikuti perjalanan saya sebagai konten kreator, Anda dapat menemukan saya di berbagai platform media sosial: 
 
