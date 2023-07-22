@@ -1,8 +1,6 @@
 **Miko Lebak Official**<a href="https://youtu.be/RQK16TTMNDM" target="blank"><img align="center" src="https://github.com/Mikolebak/Miko-lebak-badgeverifikasicentang.github.io/blob/main/Miko%20lebak%20official_9074860-1.png" alt="miko lebak official" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
-</p>
 Selamat datang di profil GitHub resmi Miko Lebak Official! Saya adalah seorang konten kreator yang aktif di berbagai platform media sosial seperti YouTube, Instagram, dan TikTok. Di sini, Anda akan menemukan informasi tentang saya, proyek-proyek saya, dan kontribusi saya di dunia konten kreatif.
 
 ![alt text](https://github.com/Mikolebak/Poto-banner-miko-lebak-official/blob/main/Screenshot_20230715-014614_Video%20Maker.jpg?raw=true)
@@ -49,7 +47,15 @@ Saat ini, saya sedang mengerjakan serangkaian video tutorial tentang pengembanga
 
 Selain itu, saya juga sedang merencanakan kolaborasi dengan konten kreator lainnya untuk menciptakan konten yang lebih menarik dan bermanfaat bagi komunitas kami. 
 
-<h1>Terhubung dengan Saya</h1> 
+<h1>Terhubung dengan Saya</h1>
+<p align="left">
+<a href="https://twitter.com/MikoLebak?t=f6vRXj_BWGwv-EVKiNlCjA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miko_lebak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miko-lebak-2b71b0191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miko lebak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mikolebakk?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youtube miko lebak" height="30" width="40" /></a>
+<a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
+</p>
+
 Saya senang berinteraksi dengan pengikut saya dan mendengar tanggapan serta saran dari Anda. Jika Anda ingin mengikuti perjalanan saya sebagai konten kreator, Anda dapat menemukan saya di berbagai platform media sosial: 
 
 • GitHub: github.com/mikolebakofficial...https://github.com/Mikolebak
