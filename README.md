@@ -5,6 +5,8 @@ Selamat datang di profil GitHub resmi Miko Lebak Official! Saya adalah seorang k
 
 ![alt text](https://github.com/Mikolebak/Poto-miko-lebak-official-terbaru-github-io/blob/main/ei_1690635966455-removebg-preview.png?raw=true)
 
+![alt text](https://github.com/Mikolebak/Poto-miko-lebak-official-terbaru-github-io/blob/main/ei_1690637135712-removebg-preview.png?raw=true)
+
 ![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/ei_1690612034829-removebg-preview.png?raw=true)
 
 ![alt text](https://github.com/Mikolebak/Poto-banner-miko-lebak-official/blob/main/Screenshot_20230715-014614_Video%20Maker.jpg?raw=true)
