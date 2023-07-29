@@ -3,6 +3,8 @@
 
 Selamat datang di profil GitHub resmi Miko Lebak Official! Saya adalah seorang konten kreator yang aktif di berbagai platform media sosial seperti YouTube, Instagram, dan TikTok. Di sini, Anda akan menemukan informasi tentang saya, proyek-proyek saya, dan kontribusi saya di dunia konten kreatif.
 
+![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/ei_1690612034829-removebg-preview.png?raw=true)
+
 ![alt text](https://github.com/Mikolebak/Poto-banner-miko-lebak-official/blob/main/Screenshot_20230715-014614_Video%20Maker.jpg?raw=true)
 
 <h1>Referensi</h1>
